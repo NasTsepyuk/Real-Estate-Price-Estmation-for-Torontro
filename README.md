@@ -5,6 +5,7 @@
 * Web_Scraping_tranio.ipynb - scraper for data from [www.tranio.com](https://tranio.com/canada/)
 * 
 ***
+## Data Collection
 ## Authors
 * **Anastasia Tsepyuk**  - [NasTsepyuk](https://github.com/NasTsepyuk)
 * **Anna Anikina**  - [anyaanikina98](https://github.com/anyaanikina98)
