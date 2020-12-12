@@ -10,7 +10,7 @@
 2) We used modules requests, json and BeautifulSoup in Python
 3) We collected data in a loop for unique flat's id from site
 4) We created DataFrame in a same loop automatically (it contains all available information about ad)
-5) Parse details in a file [Web_Scraping_tranio.ipynb]
+5) Parse details in a file `Web_Scraping_tranio.ipynb`
 ***
 ## Authors
 * **Anastasia Tsepyuk**  - [NasTsepyuk](https://github.com/NasTsepyuk)
