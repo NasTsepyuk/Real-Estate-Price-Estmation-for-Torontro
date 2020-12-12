@@ -1,6 +1,6 @@
 # Real Estate Price Estmation for Torontro, Canada
 ***
-## Сбор данных
+## Data collection
 1) Data was collected from https://tranio.com/canada/
 2)
 ***
