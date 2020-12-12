@@ -19,7 +19,7 @@ The task of the project: to estimate the key factors effects on real estate pric
 ***
 ## Data Preprocessing
 * Data was collected 2020-12-02
-* We split words in description and create dummies for unique words in each description if description contains this word
+* We split words in description and create dummies for unique words if description contains this word
 * Exaples of unique words: Garage, Schools, Luxary, etc.
 * There are 7501 observations and 74 features of real estate in Toronto in a final dataset `toronto_real_estate_dataset.zip`
 ***
