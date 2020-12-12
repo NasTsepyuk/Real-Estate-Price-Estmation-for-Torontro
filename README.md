@@ -3,5 +3,5 @@
 ## READ ME will be updated later
 ***
 ## Authors
-* **Anastasia Tsepyuk**  - [PurpleBooth](https://github.com/NasTsepyuk)
-* **Anna Anikina**  - [PurpleBooth](https://github.com/anyaanikina98)
+* **Anastasia Tsepyuk**  - [NasTsepyuk](https://github.com/NasTsepyuk)
+* **Anna Anikina**  - [anyaanikina98](https://github.com/anyaanikina98)
