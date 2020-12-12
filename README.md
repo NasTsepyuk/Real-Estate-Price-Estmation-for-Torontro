@@ -5,7 +5,7 @@
 2) We used modules requests, json and BeautifulSoup in python
 3) We collected data in a loop for special id for each flat
 4) We formed dataframe about property's prices automatically in loop
-5) Parse file: 
+5) Parse file: Web_Scraping_tranio.ipynb
 
 ***
 ## Authors
