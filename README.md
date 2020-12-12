@@ -1,5 +1,7 @@
-# Real-Estate-Price-Estmation-for-Torontro
+# Real Estate Price Estmation for Torontro, Canada
 ***
-### READ ME will be updated later
+## READ ME will be updated later
 ***
-### anyaanikina98 is an equivalent creator of the Project
+## Authors
+* **Anastasia Tsepyuk**  - [PurpleBooth](https://github.com/NasTsepyuk)
+* **Anna Anikina**  - [PurpleBooth](https://github.com/anyaanikina98)
