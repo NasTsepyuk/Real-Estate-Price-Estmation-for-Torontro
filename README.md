@@ -2,7 +2,11 @@
 ***
 ## Data collection
 1) Data was collected from https://tranio.com/canada/
-2)
+2) We used modules requests, json and BeautifulSoup in python
+3) We collected data in a loop for special id for each flat
+4) We formed dataframe about property's prices automatically in loop
+5) Parse file: 
+
 ***
 ## Authors
 * **Anastasia Tsepyuk**  - [NasTsepyuk](https://github.com/NasTsepyuk)
